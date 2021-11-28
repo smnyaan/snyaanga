@@ -7,6 +7,8 @@ angle: 130
 links:
   - label: Instagram
     url: "https://www.instagram.com/sarahs.eatz/"
+  - label: GitHub
+    url: "https://github.com/smnyaan"
   - label: Email
     url: "mailto:nyaangasarah@gmail.com"
 output:
